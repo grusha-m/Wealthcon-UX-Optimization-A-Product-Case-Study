@@ -33,4 +33,4 @@ A functional version of this redesign was prototyped using Vibe coding on Emerge
 **[View Interactive Prototype](https://doctor-wealth-hub.preview.emergentagent.com/)** 
 
 ---
-*Developed as part of a Product Management portfolio project focusing on UX strategy and healthcare-fintech optimization.*
+*Developed as part of a Product Management portfolio focusing on UX strategy and healthcare-fintech optimization.*
