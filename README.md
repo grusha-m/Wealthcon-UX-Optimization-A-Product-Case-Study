@@ -29,8 +29,8 @@ Medical professionals are a time-constrained demographic. The existing platform 
 * **Media Optimization:** Recommended modern WebP image formats to reduce page load times and bounce rates.
 
 ## 🔗 Live Prototype
-A functional version of this redesign was prototyped using Vibe coding on Emergent AI.
-**[View Interactive Prototype](https://doctor-wealth-hub.preview.emergentagent.com/)** 
+**[Wealthcon's current site](https://wealthconindia.com/)**.  A functional version of this **[redesign](https://doctor-wealth-hub.preview.emergentagent.com/)**, prototyped using Vibe coding on Emergent AI.
+ 
 
 ---
 *Developed as part of a Product Management portfolio focusing on UX strategy and healthcare-fintech optimization.*
